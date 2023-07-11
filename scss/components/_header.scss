@@ -1,0 +1,25 @@
+header {
+    background-color: rgb(66, 0, 100);
+}
+
+.navbar {
+    background-color: rgb(66, 0, 100);
+}
+
+.navbar-nav {
+    align-items: center;
+}
+
+#navbarNav {
+    justify-content: center;
+}
+
+.navbar-toggler {
+    background-color: rgba(0, 0, 0, 0.368);
+}
+
+@media (min-width: 992px) {
+    .navbar {
+        font-size: 1.5rem;
+    }
+}
