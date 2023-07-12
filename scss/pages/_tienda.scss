@@ -1,9 +1,11 @@
 .container-tienda{
-    max-width: 100%;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: center;
     align-items: center;
+    align-content: center;
+    max-width: 100%;
+    margin: 0;
 }
 
 .card-tienda{
@@ -29,5 +31,4 @@
     border: solid #620265 1px;
     background:blueviolet
     
-
 }
